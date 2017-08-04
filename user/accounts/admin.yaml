@@ -1,0 +1,12 @@
+email: 156112314@qq.com
+fullname: Jerry
+title: Ads
+state: enabled
+access:
+  admin:
+    login: 'true'
+    super: 'true'
+  site:
+    login: 'true'
+hashed_password: $2y$10$2jDkTiFwScgqI9gwOlZb4uKY6EPZqzgpHvcjz1m6hfv0FpqLffbHC
+language: en
